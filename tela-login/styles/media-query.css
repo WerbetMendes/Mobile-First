@@ -15,17 +15,18 @@ Big screens: acima de 1.200px.
 
     #login {
         width: 80vw;
+        height: 280px;
     }
 
     #imagem {
         float: left;
-        width: 40%;
+        width: 30%;
         height: 100%;
     }
 
     #formulario {
         float: right;
-        width: 60%;
+        width: 70%;
     }
 }
 
@@ -35,7 +36,8 @@ Big screens: acima de 1.200px.
     }
 
     #login {
-        width: 940px;
+        width: 950px;
+        height: 350px;
     }
 
     #imagem {
