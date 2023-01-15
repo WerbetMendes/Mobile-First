@@ -72,9 +72,10 @@ div.campo > input {
     width: cal(100% - 45px);
     height: 100%;
     border-radius: 5px;
+    border: none;
 }
 
-input:focus {
+div.campo input:focus {
     outline: 0;
 }
 
