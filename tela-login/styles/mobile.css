@@ -75,7 +75,7 @@ div.campo > input {
 }
 
 input:focus {
-    outline: none;
+    outline: 0;
 }
 
 .material-symbols-outlined {
