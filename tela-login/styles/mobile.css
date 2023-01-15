@@ -59,9 +59,10 @@ p {
 }
 
 
-/*#ilogin:focus-within {
-    background-color: #84dcd9;
-}*/
+input:focus {
+    border: 2px solid #49a09d;
+    outline: none;
+}
 
 div.campo > label{
     display: none;
@@ -72,12 +73,8 @@ div.campo > input {
     width: cal(100% - 45px);
     height: 100%;
     border-radius: 5px;
-    border: none;
 }
 
-div.campo input:focus {
-    outline: 0;
-}
 
 .material-symbols-outlined {
     font-size: 2em;
